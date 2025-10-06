@@ -557,7 +557,7 @@ SOFTWARE.
 
 ## 👥 Autores
 
-- Lucas Costa  - [GitHub](https://https://github.com/LucasViniciusNunesCosta)
+- Lucas Costa  - [GitHub](https://github.com/LucasViniciusNunesCosta)
 
 ---
 
